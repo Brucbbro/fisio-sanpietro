@@ -20,7 +20,7 @@ h1, h2, h3 {
 body {
     height: 100%;
     background-color: rgb(255, 255, 255);
-    background-image: url(/static/bright-squares.jpg);
+    background-image: url(../static/bright-squares.jpg);
     /*background-image: url(static/concrete-wall-3.png);*/
     font-family: 'Oxygen', sans-serif;
 }
@@ -186,7 +186,7 @@ body {
 .logo {
     max-width: 100%;
 	margin-bottom: 30px;
-    background: url("/static/imgs/masolino-resurrezione tabita.jpg") left no-repeat;
+    background: url("../static/imgs/masolino-resurrezione-tabita.jpg") left no-repeat;
     background-size: cover;
     overflow: hidden;
 }
